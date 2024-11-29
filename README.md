@@ -1,4 +1,4 @@
-##  It's a web-based platform where anyone can rent house within a few seconds where Landlords can post about their empty houses.
+##  It's a web-based and API platform where anyone can rent house within a few seconds where Landlords can post about their houses.
 
 ## **Technology: Html, CSS, Bootstrap, JavaScript, PHP, Laravel Framework
 ## **Database: MySQL
@@ -15,4 +15,8 @@
 ## 10. install and run npm dependencies by command npm install followed by npm run dev
 ## 11. to run the project, command used is php artisan serve
 
-<ul>
+## ARCHITECTURAL DIAGRAM
+![alt text](https://github.com/Kivaru/nyumbafasta/nyumbafasta-property-rental-architecture-diagram.png?raw=true)
+
+## MODEL DIAGRAM
+![alt text](https://github.com/Kivaru/nyumbafasta/nyumbafasta-property-rental.png?raw=true)
