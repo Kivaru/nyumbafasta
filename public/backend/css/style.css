@@ -1,0 +1,43 @@
+/* some sumtom design */
+
+
+@media (min-width: 768px) {
+    .input { width:50%
+    
+}
+}
+
+.form-control
+{
+	width:100%;
+}
+
+
+
+.table-background{
+	background-color:#dbf0f8;
+    color:#18355d;
+    margin-bottom: 0%;
+}
+.card-header{
+    background-color:#eb8000;
+    color:#000000;
+}
+
+.table td, th{
+    text-align: center;
+}
+
+
+ /* body {
+    overflow: hidden !important; 
+  } */
+
+  ::-webkit-scrollbar {
+    width: 0px;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}

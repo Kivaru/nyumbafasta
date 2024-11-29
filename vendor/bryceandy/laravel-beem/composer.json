@@ -1,0 +1,39 @@
+{
+    "name": "bryceandy/laravel-beem",
+    "description": "A package to integrate your Laravel app with Beem API services(SMS, Contacts, USSD, Airtime, Payment Collections, Payment Checkout, Disbursements and OTP).",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bryceandy",
+            "email": "hello@bryceandy.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.4|^8.0",
+        "ext-curl": "*",
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.19",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bryceandy\\Beem\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bryceandy\\Beem\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bryceandy\\Beem\\BeemBaseServiceProvider"
+            ]
+        }
+    }
+}
