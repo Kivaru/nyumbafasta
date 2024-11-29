@@ -16,7 +16,7 @@
 ## 11. to run the project, command used is php artisan serve
 
 ## ARCHITECTURAL DIAGRAM
-![alt text](https://github.com/Kivaru/nyumbafasta/nyumbafasta-property-rental-architecture-diagram.png?raw=true)
+![alt text](https://github.com/Kivaru/nyumbafasta/blob/main/public/images/nyumbafasta-property-rental-architecture-diagram.png)
 
 ## MODEL DIAGRAM
-![alt text](https://github.com/Kivaru/nyumbafasta/nyumbafasta-property-rental.png?raw=true)
+![alt text](https://github.com/Kivaru/nyumbafasta/blob/main/public/images/nyumbafasta-property-rental.png)
